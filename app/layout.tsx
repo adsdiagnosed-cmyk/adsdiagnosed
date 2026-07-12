@@ -4,6 +4,9 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "AdsDiagnosed",
   description: "Practical Google Ads troubleshooting for agency managers and in-house teams.",
+  verification: {
+    google: "HbQ-QffnOHDVBVHZmFRAVqxWssgIYkidoYCFiAFNbso",
+  },
 };
 
 export default function RootLayout({
